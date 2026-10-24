@@ -1,83 +1,96 @@
-# 🌐 Web Development Projects
+# 🌐 MY WEB DEVELOPMENT PROJECTS
+
+## 👨‍🎓 Student Details
+
+**Name:** Sagarla Venkata Vivek  
+**Roll Number:** 26000055  
+**Branch:** Computer Science and Engineering (CSE)  
+**Section:** 1
+
+## 📋 Project Numbers and Titles
+
+**6. Online Shopping Website**  
+**7. Electronics Shopping Website**  
+**26. College Fest Website**
+
+---
 
 ## 📌 About This Repository
 
 Welcome to my Web Development Projects repository!
 
-This repository contains three web development projects created by me as part of my learning and practical experience in front-end web development.
-
-These projects helped me improve my HTML, CSS, website designing, and programming skills.
+This repository contains three web development projects developed by me using HTML and CSS. These projects demonstrate my creativity, technical knowledge, and practical web development skills.
 
 ## 🚀 My Projects
 
-### 🎉 1. College Fest Website
+### 🛒 6. Online Shopping Website
 
-The College Fest Website is designed to display information about college events and cultural activities.
+The Online Shopping Website is designed to display various products with a clean and attractive interface.
 
 **Features:**
-- Attractive college fest homepage
-- Information about college events
-- Event schedules and details
-- Simple and user-friendly design
+- Shopping homepage
+- Different product categories
+- Product images and prices
+- Simple navigation
+- Attractive website design
 
-**Purpose:** To create a digital platform for presenting college fest information.
+**Purpose:** To understand the basic structure of an online shopping platform.
 
-### 💻 2. Electronic Device Selling Website
+### 💻 7. Electronics Shopping Website
 
-This project is a website designed to showcase electronic devices such as laptops, smartphones, headphones, and other gadgets.
+This website is designed to showcase electronic products such as laptops, smartphones, headphones, and other gadgets.
 
 **Features:**
 - Electronic product listings
 - Product images and descriptions
 - Product pricing information
 - Attractive product display
-- Easy website navigation
+- Easy navigation
 
-**Purpose:** To practice designing an electronic e-commerce website.
+**Purpose:** To practice creating an electronics e-commerce website.
 
-### 🛒 3. Online Shopping Website
+### 🎉 26. College Fest Website
 
-The Online Shopping Website is a front-end shopping website designed to display different products in an organized and attractive way.
+The College Fest Website is designed to provide information about college events, cultural activities, and celebrations.
 
 **Features:**
-- Shopping homepage
-- Product categories
-- Product images and prices
-- User-friendly navigation
-- Clean website layout
+- Attractive homepage
+- College event information
+- Event schedules and details
+- User-friendly design
+- Creative webpage layout
 
-**Purpose:** To understand the basic structure and design of online shopping platforms.
+**Purpose:** To develop a website for displaying college fest activities and events.
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Website structure and content
-- **CSS3** – Styling, colors, and layouts
+- **HTML5** – Website structure
+- **CSS3** – Website styling and design
 - **Visual Studio Code** – Code editor
 - **GitHub** – Project hosting and version control
 
 ## 🎯 Learning Outcomes
 
-Through these projects, I gained practical knowledge of:
+Through these projects, I learned:
 
-- Creating webpages using HTML
-- Designing websites using CSS
-- Organizing website content
-- Developing front-end layouts
-- Improving UI design skills
-- Uploading and managing projects on GitHub
+- How to create webpages using HTML
+- How to style websites using CSS
+- How to design attractive website layouts
+- How to organize webpage content
+- How to develop basic e-commerce website interfaces
+- How to upload and manage projects on GitHub
 
-## 👨‍💻 About Me
+## 🌟 Conclusion
 
-**Name:** S. Venkata Vivek
+These projects helped me gain practical experience in front-end web development and improve my creativity, coding knowledge, and website designing skills.
 
-**Course:** B.Tech – Computer Science and Engineering (CSE)
+I look forward to learning more technologies and developing advanced projects in the future.
 
-**Interests:** Web Development, Programming, Artificial Intelligence, and Technology
+---
 
-I am passionate about learning new technologies, developing creative websites, and improving my programming skills.
+**Developed By:** Sagarla Venkata Vivek  
+**Roll Number:** 26000055  
+**Branch:** CSE  
+**Section:** 1
 
-## ⭐ Conclusion
-
-These three projects represent my journey in learning web development. I will continue improving my skills and developing more advanced projects in the future.
-
-**⭐ Thank you for visiting my GitHub repository!**
+⭐ Thank you for visiting my GitHub repository!
